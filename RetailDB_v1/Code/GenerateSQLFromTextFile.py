@@ -7,7 +7,7 @@ import os
 
 def sanitize_value(value):
     """Sanitizes input values by escaping single quotes and handling special characters."""
-    return value.replace("'", "''").strip()
+    return value.replace("'", " ").replace('"', '').strip()
 
 def generate_sql_from_csv(txt_file,delimiter, table_name,single_sql_insert_stmt):
     try:
@@ -31,7 +31,9 @@ def generate_sql_from_csv(txt_file,delimiter, table_name,single_sql_insert_stmt)
         values_list = []
         insert_statements = []
         for line in lines[1:]:  # Skip header line
+            print("Row (Before Process) :",line)
             row = [sanitize_value(value) for value in line.strip().split(delimiter)]
+            print("Row (After Process) :",row)
             values = "', '".join(row)
             
             if single_sql_insert_stmt:
@@ -70,7 +72,7 @@ def main():
     create_table_sql, insert_sql_statement = generate_sql_from_csv(args.inputFile,args.Filedelimiter, args.tableName,args.singleSqlStmt)
 
     print("create_table_sql     :\n",create_table_sql)
-    print("insert_sql_statement :\n",insert_sql_statement)
+    # print("insert_sql_statement :\n",insert_sql_statement)
 
 
 

@@ -1,4 +1,4 @@
-# Text To SQL Generator
+# CSV To SQL Generator
 Generate sample data for practicing database operations
 
 

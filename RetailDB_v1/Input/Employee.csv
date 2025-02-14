@@ -1,0 +1,72 @@
+Employee_ID,Employee_Full_Name,Employee_Gender,Employee_Contact,Employee_Designation,Store_ID
+EMP_1001,Rajesh Sharma,Male,9876543210,Store Manager,ST_123
+EMP_1002,Suresh Kumar,Male,9845123456,Salesman,ST_123
+EMP_1003,Anita Verma,Female,9934567890,Salesman,ST_123
+EMP_1004,Sunil Gupta,Male,9988776655,Floor Manager,ST_123
+EMP_1005,Pooja Rani,Female,9765432109,House Keeping,ST_123
+EMP_1006,Ramesh Yadav,Male,9887766554,Salesman,ST_123
+EMP_1007,Meera Nair,Female,9854671234,Salesman,ST_123
+EMP_1008,Kamal Kishore,Male,9798654321,House Keeping,ST_123
+EMP_1009,Vinod Tiwari,Male,9865321470,Floor Manager,ST_123
+EMP_1010,Neha Patil,Female,9871234560,Salesman,ST_123
+EMP_1011,Pankaj Joshi,Male,9812345678,Salesman,ST_123
+EMP_1012,Swati Singh,Female,9823456789,Salesman,ST_123
+EMP_1013,Rahul Dubey,Male,9834567891,Salesman,ST_123
+EMP_1014,Alok Mishra,Male,9874563210,Salesman,ST_123
+EMP_1015,Kiran Rao,Female,9845671234,Salesman,ST_123
+EMP_1016,Amit Saxena,Male,9765321456,Store Manager,ST_456
+EMP_1017,Shreya Pandey,Female,9934123456,Salesman,ST_456
+EMP_1018,Arun Chawla,Male,9812345566,Floor Manager,ST_456
+EMP_1019,Ruchi Mehta,Female,9876545678,House Keeping,ST_456
+EMP_1020,Deepak Aggarwal,Male,9922334455,Salesman,ST_456
+EMP_1021,Suman Gupta,Female,9811223344,Salesman,ST_456
+EMP_1022,Tarun Kapoor,Male,9899887766,Store Manager,ST_789
+EMP_1023,Divya Saxena,Female,9823445566,Salesman,ST_789
+EMP_1024,Manoj Verma,Male,9911778899,Floor Manager,ST_789
+EMP_1025,Nidhi Chauhan,Female,9876112233,House Keeping,ST_789
+EMP_1026,Sachin Patil,Male,9888776655,Salesman,ST_789
+EMP_1027,Ritika Sharma,Female,9823459876,Salesman,ST_789
+EMP_1028,Ajay Singh,Male,9812344567,Store Manager,ST_234
+EMP_1029,Prerna Yadav,Female,9909988776,Salesman,ST_234
+EMP_1030,Varun Malhotra,Male,9845129876,Floor Manager,ST_234
+EMP_1031,Kavita Jha,Female,9897665544,House Keeping,ST_234
+EMP_1032,Gopal Rao,Male,9798654432,Salesman,ST_234
+EMP_1033,Ankita Bose,Female,9887766553,Salesman,ST_234
+EMP_1034,Sharad Mishra,Male,9871234789,Salesman,ST_234
+EMP_1035,Vandana Sharma,Female,9765432178,Salesman,ST_234
+EMP_1036,Rajiv Bansal,Male,9823456781,Salesman,ST_234
+EMP_1037,Harsha Menon,Female,9812345672,Salesman,ST_234
+EMP_1038,Ravi Tandon,Male,9901122334,Salesman,ST_234
+EMP_1039,Madhavi Pillai,Female,9845671223,Salesman,ST_234
+EMP_1040,Rahul Nair,Male,9834567211,Salesman,ST_234
+EMP_1041,Simran Kaur,Female,9876543201,Salesman,ST_234
+EMP_1042,Vikas Mehta,Male,9811223345,Store Manager,ST_567
+EMP_1043,Nidhi Kapoor,Female,9832123456,Salesman,ST_567
+EMP_1044,Ashok Jain,Male,9809876543,Floor Manager,ST_567
+EMP_1045,Sunita Rao,Female,9798654322,House Keeping,ST_567
+EMP_1046,Girish Patil,Male,9876545679,Salesman,ST_567
+EMP_1047,Arti Sharma,Female,9812345680,Salesman,ST_567
+EMP_1048,Rajendra Joshi,Male,9823456790,Store Manager,ST_890
+EMP_1049,Shalini Gupta,Female,9834678901,Salesman,ST_890
+EMP_1050,Ankur Verma,Male,9845789012,Floor Manager,ST_890
+EMP_1051,Priyanka Mehta,Female,9856890123,House Keeping,ST_890
+EMP_1052,Dinesh Reddy,Male,9867901234,Salesman,ST_890
+EMP_1053,Rita Das,Female,9878912345,Salesman,ST_890
+EMP_1054,Aditya Ghosh,Male,9889123456,Store Manager,ST_345
+EMP_1055,Shweta Roy,Female,9890234567,Salesman,ST_345
+EMP_1056,Kunal Nair,Male,9901345678,Floor Manager,ST_345
+EMP_1057,Smita Bhatt,Female,9912456789,House Keeping,ST_345
+EMP_1058,Harish Kumar,Male,9923567890,Salesman,ST_345
+EMP_1059,Rashmi Pillai,Female,9934678901,Salesman,ST_345
+EMP_1060,Anil Kapoor,Male,9945789012,Store Manager,ST_678
+EMP_1061,Rekha Sen,Female,9956890123,Salesman,ST_678
+EMP_1062,Vinayak Sharma,Male,9967901234,Floor Manager,ST_678
+EMP_1063,Nisha Pillai,Female,9978912345,House Keeping,ST_678
+EMP_1064,Sameer Reddy,Male,9989123456,Salesman,ST_678
+EMP_1065,Rajni Sharma,Female,9990234567,Salesman,ST_678
+EMP_1066,Suraj Menon,Male,9901345679,Store Manager,ST_901
+EMP_1067,Monika Yadav,Female,9912456780,Salesman,ST_901
+EMP_1068,Prashant Bhatt,Male,9923567891,Floor Manager,ST_901
+EMP_1069,Sweta Das,Female,9934678902,House Keeping,ST_901
+EMP_1070,Abhishek Tandon,Male,9945789013,Salesman,ST_901
+EMP_1071,Payal Gupta,Female,9956890124,Salesman,ST_901
