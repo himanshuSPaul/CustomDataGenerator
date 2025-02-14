@@ -5,7 +5,7 @@ Generate sample data for practicing database operations
 
 # Project Directory Structure
 
-![screenshot](.\RetailDB_v1\Assets\DirectoryStructure.PNG)
+![screenshot](./RetailDB_v1/Assets/DirectoryStructure.PNG)
 
 
 
@@ -25,9 +25,10 @@ Where
 **` -s `**  :
 
 
-![screenshot](.\RetailDB_v1\Assets\ExeccuteTheCode.PNG)
+![alt text](.\RetailDB_v1\Assets\ExeccuteTheCode.PNG)
 
+.
 
 # Data To SQL Conversion Preview
-![screenshot](.\RetailDB_v1\Assets\Conversion.PNG)
+![screenshot](./RetailDB_v1/Assets/Conversion.PNG)
 
